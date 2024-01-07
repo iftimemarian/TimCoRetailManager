@@ -1,2 +1,2 @@
-# TimCoRetailManager
-A retail management system built by TimCo Enterprise Solutions
+# Marian IFTIME
+A retail management system built by Marian IFTIME
